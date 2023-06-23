@@ -94,6 +94,8 @@ public:
 				cout << queue_array[FRONT_position] << "  ";
 				FRONT_position++;
 			}
+			cout << endl;
 		}
 	}
 };
+
